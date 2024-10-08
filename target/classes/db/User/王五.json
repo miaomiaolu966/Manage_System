@@ -1,0 +1,34 @@
+{
+  "id": "29381-2",
+  "account": "王五",
+  "sex": "男",
+  "age": 13,
+  "password": "e10adc3949ba59abbe56e057f20f883e",
+  "createTime": "Sep 20, 2024, 4:02:34 PM",
+  "modifyTime": "Sep 20, 2024, 4:02:34 PM",
+  "roles": [
+    {
+      "Id": "74tajs",
+      "name": "喵喵露",
+      "order": 344,
+      "createTime": "Sep 23, 2024, 10:37:01 AM",
+      "modifyTime": "Sep 23, 2024, 10:37:01 AM",
+      "menus": [
+        {
+          "id": "1234er12fas",
+          "name": "菜单01",
+          "order": 2378,
+          "path": "//123"
+        },
+        {
+          "id": "980",
+          "name": "主页面",
+          "order": 2,
+          "path": "http://www.baidu.com",
+          "createTime": "Sep 25, 2024, 1:31:59 PM",
+          "modifyTime": "Sep 25, 2024, 1:31:59 PM"
+        }
+      ]
+    }
+  ]
+}

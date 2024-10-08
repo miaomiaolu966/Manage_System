@@ -1,0 +1,25 @@
+{
+  "id": "66666",
+  "account": "华为",
+  "age": 31,
+  "password": "e10adc3949ba59abbe56e057f20f883e",
+  "createTime": "Sep 23, 2024, 3:26:37 PM",
+  "modifyTime": "Sep 23, 2024, 3:26:37 PM",
+  "roles": [
+    {
+      "Id": "74tajs",
+      "name": "喵喵露",
+      "order": 344,
+      "createTime": "Sep 23, 2024, 10:37:01 AM",
+      "modifyTime": "Sep 23, 2024, 10:37:01 AM",
+      "menus": [
+        {
+          "id": "1234er12fas",
+          "name": "菜单01",
+          "order": 2378,
+          "path": "//123"
+        }
+      ]
+    }
+  ]
+}

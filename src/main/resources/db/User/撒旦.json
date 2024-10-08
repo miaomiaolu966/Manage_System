@@ -1,0 +1,42 @@
+{
+  "id": "20240918165718667",
+  "account": "撒旦",
+  "sex": "男",
+  "age": 12,
+  "password": "e10adc3949ba59abbe56e057f20f883e",
+  "createTime": "Sep 18, 2024, 4:57:18 PM",
+  "modifyTime": "Sep 18, 2024, 4:57:18 PM",
+  "roles": [
+    {
+      "Id": "xiaotuzi",
+      "name": "小兔梓",
+      "order": 2341,
+      "createTime": "Sep 25, 2024, 10:11:15 AM",
+      "modifyTime": "Sep 25, 2024, 10:11:15 AM",
+      "menus": []
+    },
+    {
+      "Id": "74tajs",
+      "name": "喵喵露",
+      "order": 344,
+      "createTime": "Sep 23, 2024, 10:37:01 AM",
+      "modifyTime": "Sep 23, 2024, 10:37:01 AM",
+      "menus": [
+        {
+          "id": "1234er12fas",
+          "name": "菜单01",
+          "order": 2378,
+          "path": "//123"
+        },
+        {
+          "id": "980",
+          "name": "主页面",
+          "order": 2,
+          "path": "http://www.baidu.com",
+          "createTime": "Sep 25, 2024, 1:31:59 PM",
+          "modifyTime": "Sep 25, 2024, 1:31:59 PM"
+        }
+      ]
+    }
+  ]
+}
